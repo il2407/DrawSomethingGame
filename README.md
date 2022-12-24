@@ -1,4 +1,5 @@
 # DrawSomethingGame
+ # Game URL : https://serene-ocean-30628.herokuapp.com/
 
 # Game Flow (Please see attached chart)
 The game begins in the welcome view where you can choose between creating a new game or joining an existing game.
