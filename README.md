@@ -7,8 +7,11 @@ The game begins in the welcome view where you can choose between creating a new 
 If you create a new game, you will be set as the main player and redirected to the word-choosing view. Then you start drawing while the player who joined the game is set as secondary and is in the word-guessing view.
 When the main player sends the drawing, he will enter the waiting view,
 if the secondary player guesses the word correctly, he will be redirected to the word-choosing view, and start drawing. Once the secondary player starts drawing, it triggers the main player's redirecting from the waiting view. Then the main player will become a secondary player which will redirect him to the word-guessing view while  the main player becomes the secondary player and so on…
+ 
 •	Throughout the game, you can view the current score and how many points are left as a team in order to pass the best score. If you pass the best score -> after clicking the "End Game" button, the player will receive a notification, and the best score, including the session time, will be updated on the welcome screen.
+
 •	At any stage of the game, you can return to the welcome page and start a new game.
+
 •	The game is adapted to three different screen sizes, from computer to mobile.
 
 # The technologies used are:
