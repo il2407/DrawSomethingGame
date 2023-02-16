@@ -1,5 +1,7 @@
 # DrawSomethingGame
  # Game URL : https://drawsomethingclient.onrender.com/
+ 
+ *I used onerender.com free submission to deploy, Therefore the initial app access may have a one-minute delay, After the initial one-minute delay, the app should work   fine.
 
 # Game Flow (Please see attached chart)
 The game begins in the welcome view where you can choose between creating a new game or joining an existing game.
